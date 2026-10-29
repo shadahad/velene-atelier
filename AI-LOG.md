@@ -2,8 +2,7 @@
 
  **Project**: VÉLÈNE Atelier — Refined Living Accessories Storefront  
  **Stack**: Next.js 15 (App Router), React 19, Tailwind CSS v4 (`@tailwindcss/postcss`), Shopify Storefront GraphQL  
- **Status**: Production Ready  
-
+ **Status**: Production Ready
 ---
 
  ## 1. Architectural Decisions (ADR)
