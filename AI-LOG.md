@@ -1,8 +1,4 @@
----
-
-#### `AI-LOG.md`
-
- # AI-LOG: Architecture, Engineering & Development Records
+# AI-LOG: Architecture, Engineering & Development Records
 
  **Project**: VÉLÈNE Atelier — Refined Living Accessories Storefront  
  **Stack**: Next.js 15 (App Router), React 19, Tailwind CSS v4 (`@tailwindcss/postcss`), Shopify Storefront GraphQL  
