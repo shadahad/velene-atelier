@@ -4,6 +4,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "VÉLÈNE Atelier | Refined Living Accessories & Spatial Objects",
   description: "Curated collection of stone vessels, monolithic trays, patinated bronze ritual tools, and Mongolian cashmere.",
+  // Add this icons block:
+  icons: {
+    icon: "/icon.svg",
+  },
   keywords: ["Luxury Home Accessories", "Travertine Tray", "Alabaster Vessels", "Artisanal Decor", "Minimalist Living"],
   openGraph: {
     title: "VÉLÈNE Atelier | Refined Living Accessories",
