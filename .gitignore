@@ -1,0 +1,81 @@
+# ==========================================
+# Dependencies
+# ==========================================
+coverage/
+node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# ==========================================
+# Next.js Build Outputs & Cache
+# ==========================================
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+
+# ==========================================
+# Environment Variables & Secrets
+# Keep secrets out of source control.
+# Only commit .env.example if needed.
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env*.local
+
+# ==========================================
+# Logs & Debugging
+# ==========================================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# Testing & Coverage
+# ==========================================
+coverage/
+.nyc_output/
+*.lcov
+
+# ==========================================
+# Vercel & Deployment Artifacts
+# ==========================================
+.vercel/
+
+# ==========================================
+# IDEs, Editors & System Artifacts
+# ==========================================
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
